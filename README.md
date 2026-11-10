@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pbolt-dev/.github/main/assets/pbolt-logo.svg" alt="pbolt logo" width="160" height="160" />
+  <img src="https://raw.githubusercontent.com/haspr-dev/.github/main/assets/haspr-logo.svg" alt="Haspr logo" width="160" height="160" />
 </p>
 
-<h1 align="center">pbolt-selenium</h1>
+<h1 align="center">haspr-selenium</h1>
 
 <p align="center">
-  <strong>End-to-end Selenium test suite for the pbolt ecosystem.</strong>
+  <strong>End-to-end Selenium test suite for the Haspr ecosystem.</strong>
 </p>
 
 ---
 
 ## ⚡ About
 
-`pbolt-selenium` contains the automated end-to-end (E2E) testing framework for the **pbolt** ecosystem, verifying browser extensions, authentication flows, and web interfaces across Firefox, Chrome, and Edge.
+`haspr-selenium` contains the automated end-to-end (E2E) testing framework for the **Haspr** ecosystem, verifying browser extensions, authentication flows, and web interfaces across Firefox, Chrome, and Edge.
 
-For more details on the pbolt ecosystem, visit [github.com/pbolt-dev](https://github.com/pbolt-dev).
+For more details on the Haspr ecosystem, visit [github.com/haspr-dev](https://github.com/haspr-dev).
 
 ---
 
 ## ⚖️ Trademark Notice
 
-*Passbolt is a registered trademark of Passbolt SA. **pbolt** is an independent community project and is not affiliated with, endorsed by, or sponsored by Passbolt SA.*
+*Passbolt is a registered trademark of Passbolt SA. **Haspr** is an independent community project and is not affiliated with, endorsed by, or sponsored by Passbolt SA.*
 
 ---
 
@@ -28,8 +28,8 @@ For more details on the pbolt ecosystem, visit [github.com/pbolt-dev](https://gi
 
 ### Prerequisites
 - Node.js >= 20
-- Built versions of `pbolt-browser-extension` (Chrome, Firefox, Edge)
-- Running `pbolt-api` test instance
+- Built versions of `haspr-browser-extension` (Chrome, Firefox, Edge)
+- Running `haspr-api` test instance
 
 ### Install Dependencies
 ```bash
@@ -45,4 +45,4 @@ npm test
 
 ## 📄 License
 
-Passbolt and pbolt-selenium are distributed under the [GNU Affero General Public License v3](http://www.gnu.org/licenses/agpl-3.0.html). See LICENSE for details.
+Passbolt and haspr-selenium are distributed under the [GNU Affero General Public License v3](http://www.gnu.org/licenses/agpl-3.0.html). See LICENSE for details.
